@@ -1,0 +1,23 @@
+API ASSESMENT
+In order to get a more in depth idea of your technical skills, we would like to continue the process with a case.
+Please let me know when you think you could be done with the assignment.
+Details:
+This exercise aims at getting an automated test solution for some scenarios using the open API https://gorest.co.in/
+Please, refer to the corresponding documentation whenever required.
+Testing objectives:
+1.   Create a new user in the system. Make the corresponding assertions to confirm the data persists.
+2.   Rename the user and check it was correctly updated in the system.
+3.   Create a post with 1 comment as the above user. Check the comment persists and is related with the correct user.
+4.   Now delete the user. Confirm the previously generated data is no longer accessible.
+Some additional notes:
+·
+ Even though we recommend to use Serenity framework, it’s up to the candidate to go for any other alternative.
+· Complete the assignment as you would write production code.
+· Use of Gherkin language to define the use cases would be a plus.
+· Solution can be returned in a GitHub/Bitbucket repository or zip
+gorest.co.in
+Online REST API for Testing and Prototyping | GO REST
+24/7 online fake REST API service for quick testing and prototyping of web and android applications. Supports authentication, rate limiting, response format negotiation.
+gorest.co.ingorest.co.in
+GraphQL and REST API for Testing and Prototyping | GO REST
+24/7 online fake GraphQL and REST API service for quick testing and prototyping of web and android applications. Supports authentication, custom rate limiting, response format negotiation
